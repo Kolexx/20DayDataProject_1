@@ -16,5 +16,5 @@ This project demonstrates customer segmentation using the **K-Means clustering a
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Kolexx/20DayDataProject_1
 
